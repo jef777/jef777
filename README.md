@@ -85,6 +85,14 @@ I am a self taught Full-Stack Developer, strong focus on Front-end development w
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs"/>
   </a>
+    <a href="https://fastify.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Fastify-DC382D?style=for-the-badge&logo=Fastify&logoColor=white%22"
+      alt="fastify"/>
+  </a>
+    <a href="https://go.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Golang-1B6AC6?style=for-the-badge&logo=Go&logoColor=white%22"
+      alt="Golang"/>
+  </a>
   <a href="https://expressjs.com" target="_blank">
     <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
       alt="express" />
